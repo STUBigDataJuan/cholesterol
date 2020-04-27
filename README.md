@@ -18,4 +18,23 @@ Cholesterol - High Density Lipoprotein (HDL) lab results:
 https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HDL_I.htm
 
 ## Instructions
-# R Markdown document can be found in the folder "code"
+1- Access R markdown in /code folder
+
+2- Install and load the following libraries:
+
+library(tidyverse) #loads ggplot, dplyr, readr
+library(SASxport) #loads data in xport format - SAS
+library(plotly) #builds interactive graphs
+library(gifski)
+library(gganimate)
+library(leaflet)
+
+Libraries can be installed with the command: install.packages("library")
+
+3- Data sources from National Center for Health Statistics are located in /data folder, please make sure SASxport library is installed and loaded
+
+4- Shiny files can be loaded from /shiny folder
+
+5- Example of Graphics and Gif images generated on this project:
+
+
