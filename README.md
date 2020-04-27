@@ -17,4 +17,5 @@ Cholesterol - High Density Lipoprotein (HDL) lab results:
 
 https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HDL_I.htm
 
-## Instructions on how to access files and run project:
+## Instructions
+# R Markdown document can be found in the folder "code"
