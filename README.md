@@ -35,6 +35,7 @@ Libraries can be installed with the command: install.packages("library")
 
 4- Shiny files can be loaded from /shiny folder
 
-5- Example of Graphics and Gif images generated on this project:
+5- Graphs generated on this project:
 
-
+![GGAnimate01](images/gganimate01.gif)
+![GGAnimate01](images/gganimate02.gif)
