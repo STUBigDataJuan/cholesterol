@@ -39,3 +39,4 @@ Libraries can be installed with the command: install.packages("library")
 
 ![GGAnimate01](images/gganimate01.gif)
 ![GGAnimate01](images/gganimate02.gif)
+![Income](images/income.png)
