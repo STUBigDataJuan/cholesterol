@@ -1,0 +1,12 @@
+name: cholesterol
+title: cholesterol
+username:
+account: jcarballo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2192058
+bundleId: 3070059
+url: https://jcarballo.shinyapps.io/cholesterol/
+when: 1587964393.38652
+asMultiple: FALSE
+asStatic: FALSE
