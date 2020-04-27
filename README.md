@@ -37,4 +37,4 @@ Libraries can be installed with the command: install.packages("library")
 
 5- Graphs generated on this project:
 
-![GGAnimate01](image/gganimate01.gif)
+![GGAnimate01](images/gganimate01.gif)
